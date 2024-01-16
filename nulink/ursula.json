@@ -1,0 +1,29 @@
+{
+  "federated_only": null,
+  "checksum_address": null,
+  "keystore_path": "/home/circleci/.local/share/nulink/keystore/1704849716-03726e5921c351185a0175bb591c1fd0.priv",
+  "domain": "horus",
+  "learn_on_same_thread": false,
+  "abort_on_learning_error": false,
+  "start_learning_now": true,
+  "save_metadata": true,
+  "node_storage": {
+    "storage_type": ":memory:"
+  },
+  "lonely": false,
+  "eth_provider_uri": "https://data-seed-prebsc-2-s2.binance.org:8545",
+  "poa": null,
+  "light": null,
+  "signer_uri": "keystore:///code/UTC--2024-01-10T01-07-40.073727502Z--5f1d877574cb6902b471759068882e4222495fb0",
+  "gas_strategy": null,
+  "max_gas_price": "10000000000",
+  "operator_address": "0x5f1D877574cb6902b471759068882e4222495fB0",
+  "rest_host": "185.241.151.219",
+  "rest_port": 9151,
+  "db_filepath": "/home/circleci/.local/share/nulink/ursula.db",
+  "availability_check": false,
+  "payment_method": "SubscriptionManager",
+  "payment_provider": "https://data-seed-prebsc-2-s2.binance.org:8545",
+  "payment_network": "bsc_testnet",
+  "version": 4
+}
